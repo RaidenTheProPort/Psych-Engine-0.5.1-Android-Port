@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
-	"color": [170, 0, 255]
+	"name": "Holiday Mod Part II",
+	"description": "A Christmas adventure!!! Meet some friends!!! Terrorism???",
+	"restart":true,
+	"color": [158, 200, 255]
 }
